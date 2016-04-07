@@ -1,0 +1,139 @@
+ 
+
+ 
+header{
+    width: 100%;
+   height: 100px;
+   background-color:#000033;
+   color:white;
+}
+ul{list-style-type:none;
+float:right;
+}
+header li {
+    float:left;
+    margin:0px 10px 0px 0px;
+    
+}
+
+.box-2
+{
+   height:400px;
+   width:100%;
+   background:url("../img/snow.jpeg")center;
+   background-attachment: fixed;
+   background-size:cover;
+}
+
+
+
+/*
+.box-4{
+   height:100px;
+   width:100%;
+   background-color:orange;
+   clear:both;
+   
+}
+*/
+.box-5{
+   height:500px;
+   width:100%;
+   background-color:#99003d;
+}
+
+.sub-box-5 {
+    height:100%;
+    width:900px;
+    background-color:;
+    margin: auto;
+}    
+.sub-boxes{
+    height: 70%;
+    width: 30%;
+    background-color:#800000;
+    float: left;
+    margin: 70px 0px 0px 20px;
+    border-radius: 20px;
+}
+
+.sub-boxes h1{
+text-align: center;
+}
+
+.sub-boxes p{
+   padding:3px 10px 3px 10px; 
+    
+}
+.sub-box-7{
+    height: 70%;
+    width: 30%;
+    background-color:#800000;
+    float: left;
+    margin: 0px 0px 0px 10px;
+}
+.sub-box-8{
+    height:70%;
+    width: 30%;
+    background-color:#800000;
+    float: left;
+    margin:0px 0px 0px 5px;
+}
+.about{
+    height: 300px;
+    background-color: purple;
+}
+.pic{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+.pic img{
+    height: 50%;
+    width: 100%;
+    margin:10%;
+    border-radius:15px;
+}
+#contact{
+    height: 300px;
+    width: 1333px;
+    clear: both;
+    background:url("../img/ace.jpeg")center;
+}
+.form-box{
+    height: 100%;
+    width: 400px;
+    margin: 0 auto;
+}
+.form-box input{
+    width: 400px;
+    height: 45px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.form-box textarea{
+    width: 400px;
+    height: 100px;
+}
+h1{
+    margin: 0px;
+    
+}
+.info{
+    float: left;
+    width: 70%;
+}
+.info h1 {
+text-align: center;
+}
+.info p{
+    text-align: center;
+    padding: 0 40px;
+}
+.footer{
+height: 50px;
+width: 1335px;
+background-color: purple;
+
+    
+}

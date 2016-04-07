@@ -1,0 +1,58 @@
+.box-1 {
+    height: 200px;
+    width: 200px;
+    background-color:red;
+float: left;
+    
+}  
+
+.box-2 {
+    height: 300px;
+    width: 150px;
+    background-color: green;
+    float: left;
+}
+.box-3{
+    height: 100px;
+    width: 600px;
+    background-color: gold;
+    clear: both;
+}
+
+.sub-box-1{
+    height: 75px;
+    width: 75px;
+    background-color: silver;
+    margin: 25px 0px 0px 50px;
+}
+.box-4 {
+    height: 300px;
+    width: 300px;
+    background-color: orange;
+}
+.sub-box-4{
+    height: 75px;
+    width: 75px;
+    background-color: yellow;
+}
+.box-5{
+    height: 500px;
+    width: 500px;
+    background-color: red;
+}
+.sub-box-5{
+    height: 100px;
+    width: 100px;
+    background-clip:;
+}
+<head>
+   
+    <style 
+    <div> {
+        padding: 100px;
+        border-width: 100px;
+        border-color:#000aa;
+        border-style: dashed;
+    }
+    </style>
+</head>
