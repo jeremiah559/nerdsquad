@@ -1,5 +1,7 @@
  
-
+body{
+    margin: 0;
+}
  
 header{
     width: 100%;
@@ -25,6 +27,10 @@ header li {
    background-size:cover;
 }
 
+
+.box-2 iframe{
+    margin: 40px 0 0 400px;
+}
 
 
 /*
@@ -136,4 +142,10 @@ width: 1335px;
 background-color: purple;
 
     
+}
+.footer i {
+    height: 30px;
+    width: 20px;
+    padding-left: 10%;
+    background-color: white;
 }
