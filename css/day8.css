@@ -9,15 +9,26 @@ header{
    background-color:#000033;
    color:white;
 }
+header h1 {
+    float: left;
+    padding-left: 50px;
+    padding-top: 30px;
+}
 ul{list-style-type:none;
 float:right;
 }
 header li {
     float:left;
     margin:0px 10px 0px 0px;
+    padding-top: 30px;
+    padding-right: 50px;
     
 }
-
+header form{
+    padding-top: 39px;
+    padding-bottom: 20px;
+    padding-left: 30%;
+}
 .box-2
 {
    height:400px;
@@ -102,7 +113,7 @@ text-align: center;
 }
 #contact{
     height: 300px;
-    width: 1333px;
+    width: 100%;
     clear: both;
     background:url("../img/ace.jpeg")center;
 }
@@ -137,15 +148,18 @@ text-align: center;
     padding: 0 40px;
 }
 .footer{
-height: 50px;
-width: 1335px;
+height: 100px;
+width: 100%;
 background-color: purple;
 
-    
+
 }
-.footer i {
-    height: 30px;
-    width: 20px;
-    padding-left: 10%;
-    background-color: white;
+.icon-box{
+    height:50px;
+    width: 50px;
+    margin: 0 auto;
+    padding: 25px 0;
+}
+.footer i{
+    font-size:3em;
 }
